@@ -22,11 +22,11 @@ Funds should be invested solely on activities related to Grin, without exception
 
 ### Inappropriate use of Funds
 
-Invest on any action that can harm Grin as a Project are forbidden. A formal list of harmful actions listed below
+Financing actions that can harm Grin as a Project is forbidden. A formal list of harmful actions listed below
 
-1. Funding projects incompatible with current RFC, as they could lead to a fork.
+1. Financing projects incompatible with current RFC, as they could lead to a fork.
 2. Funding art which is vulgar and explicitly offends a person or a group of people.
-3. Funding resources for illegal purposes, such as causing DDoS attack of someone's service for example.
+3. Covering the expenses of resources for illegal purposes, such as causing DDoS attack of someone's service for example.
 4. Investing money in physical or digital assets.
 
 ### Decision Process
