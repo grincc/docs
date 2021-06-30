@@ -22,18 +22,30 @@ Funds should be invested solely on activities related to Grin, without exception
 
 ### Inappropriate use of Funds
 
-Invest on any action that can harm Grin as a Project are forbidden, also any effort that could lead to a Grin fork is out of the scope completely.
+Invest on any action that can harm Grin as a Project are forbidden. A formal list of harmful actions listed below
+
+1. Funding projects incompatible with current RFC, as they could lead to a fork.
+2. Funding art which is vulgar and explicitly offends a person or a group of people.
+3. Funding resources for illegal purposes, such as causing DDoS attack of someone's service for example.
+4. Investing money in physical or digital assets.
 
 ### Decision Process
 
 The discussions regarding spending the funds should always be public via an open pre-announced channel and every community member is invited to participate. The Community Council will never make a decision without having clear:
 
-- To whom the funds will be transferred.
-- How will the expense be helpful for Grin.
-- How much funds will be spent.
-- Will the expense be a one time expense or will it require several expenses?
+1. To whom the funds will be transferred.
+2. How will the expense be helpful for Grin.
+3. How much funds will be spent.
+4. Will the expense be a one time expense or will it require several expenses?
 
 Some rules will be established during the discussions to clarify how the accountability process will be.
+
+Grin Community Council will provide response to the request withing X days (until nearest meeting) which will contain one of the following
+
+- Approval
+- Denial accompagned with formal reason and decision if re-application would be accepted, and if, guidelines what should be changed
+- Request for decision deadline extension for another X days (until nearest meeting) along with justification why deadline is required
+- Request for further details, accompagned with list of questions.
 
 ### Reporting
 
