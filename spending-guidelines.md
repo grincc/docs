@@ -2,7 +2,7 @@
 
 ## Summary
 
-This document is meant be to used as base guidelines for spending the Grin Community Council Fund, which uses are appropriate and which are not.
+This document is meant be to used as base guidelines for spending the Grin Community Council Fund, stating which uses are appropriate and which are not.
 
 ## Motivation
 
@@ -31,21 +31,21 @@ Financing actions that can harm Grin as a Project is forbidden. A formal list of
 
 ### Decision Process
 
-The discussions regarding spending the funds should always be public via an open pre-announced channel and every community member is invited to participate. The Community Council will never make a decision without having clear:
+The discussions regarding spending the funds should always be public on an open pre-announced channel and every community member is invited to participate in these discussions. The Community Council will never make a decision without having clear:
 
 1. To whom the funds will be transferred.
-2. How will the expense be helpful for Grin.
+2. How the expense will be helpful for Grin.
 3. How much funds will be spent.
-4. Will the expense be a one time expense or will it require several expenses?
+4. If the expense will be a one time or require multiple rounds of financing?
 
 Some rules will be established during the discussions to clarify how the accountability process will be.
 
-Grin Community Council will provide response to the request withing X days (until nearest meeting) which will contain one of the following
+The Grin Community Council will provide response to the request within X days (until the nearest meeting) which will contain one of the following
 
 - Approval
 - Denial accompagned with formal reason and decision if re-application would be accepted, and if, guidelines what should be changed
 - Request for decision deadline extension for another X days (until nearest meeting) along with justification why deadline is required
-- Request for further details, accompagned with list of questions.
+- Request for further details, accompanied by a list of questions.
 
 ### Reporting
 
