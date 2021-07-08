@@ -1,4 +1,4 @@
-As all members of the **GRIN community council**  all have owner roles on this repository,  I suggest the following rules for approvals of pull-requests (PR):
+As all members of the **GRIN community council**  all have owner roles on this repository,  I suggest the following rules for approvals of pull-requests(PR):
 
 **Repository**|  Required members of CC for PR |  notes      
 :-----:|:-----:|:-----:|
@@ -8,6 +8,7 @@ As all members of the **GRIN community council**  all have owner roles on this r
 [docs](https://github.com/grincc/docs) | 2 | CC related documents 
 
 otherwise anyone of us could approve something without the consent of the other members. 
+The CC member who submits the PR is included in the count of required members to aproave PR's.
 
 **CC** = GRIN community council 
 **PR** = pull request
