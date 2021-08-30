@@ -15,10 +15,11 @@ We advise to make a funding request in the following format:
 
 ## Payments
 Payments will be made after reviewing the completed project or completed project milestones.
-Payments will by default be made 85% in BTC and 20% (15% base + 5% bonus) in Grin. 
-This effectively means applicants will be paid 105% of the amount they requested if they applicant choses to be paid in 15% or more in Grin.
-Payment in Grin will be based on a monthly average value while Bitcoin  
-In case an applicant prefers to be paid less than the default 15% +5% bonus payment in Grin, we expect sound argumentation why this deviation is required, such as personal circumstances.
+Payments will by default be made 85% in BTC and 20% (15% base + 5% bonus) in Grin unless otherwise requested by the applicant. 
+This bonus payment of 5% is only applicable if the applicant choses >=15% payment in Grin.
+This effectively means that applicants will be paid 105% of the amount they requested if the applicants chose to be paid at least 15% in Grin.
+Payment in both Grin and Bitcoin will be based on the monthly average value equivalent of the requested amount. 
+In case an applicant prefers to be paid less than the default 15% +5% bonus payment in Grin, sound argumentation why this deviation is required is expected.
 
 ## Motivation
 As Grin Community Council we want to stimulate adoption of Grin and day to day use by community members and developers alike.
