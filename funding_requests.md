@@ -15,14 +15,12 @@ We advise to make a funding request in the following format:
 
 ## Payments
 Payments will be made after reviewing the completed project or completed project milestones.
-Payments will by default be made 85% in BTC and 20% (15% base + 5% bonus) in Grin unless otherwise requested by the applicant. 
-This bonus payment of 5% is only applicable if the applicant choses >=15% payment in Grin.
-This effectively means that applicants will be paid 105% of the amount they requested if the applicants chose to be paid at least 15% in Grin.
+Payments will by default be made 90% in BTC and 10% in Grin unless otherwise requested by the applicant. 
 Payment in both Grin and Bitcoin will be based on the monthly average value equivalent of the requested amount. 
-In case an applicant prefers to be paid less than the default 15% +5% bonus payment in Grin, sound argumentation why this deviation is required is expected.
+In case an applicant prefers to be paid less than the default 10%, sound argumentation why this deviation is required are expected.
 
 ## Motivation
 As Grin Community Council we want to stimulate adoption of Grin and day to day use by community members and developers alike.
 There is a general agreement in the community that Grin should be used in day-to-day life and as such that it would be desirable to use Grin in paying funding requests. 
-There are however different opinions on the speed at which Grin's adoption should be pushed as well as practical objections such as the fact that developers could incur additional costs if they require conversion of Grin -> BTC -> fiat currency to meet their daily costs. To compensate developers for any possible losses due to conversions, and to incentives them to use Grin and immerse themselves in the grin ecosystem we decided to introduce the 5% bonus payment in Grin.
-Over time as liquidity of Grin increases and more options to easily buy and sell Grin will emerge, the base percentage of 15% payment in Grin required to be eligible for this bonus can be increased.
+There are however different opinions on the speed at which Grin's adoption should be pushed as well as practical objections such as the fact that developers could incur additional costs if they require conversion of Grin -> BTC -> fiat currency to meet their daily costs. To compensate developers for any possible losses due to conversions. For 10%, these losses would be very low and in most cases developers would be fine with having 90% of their requested funds directly available to compensate daily costs.
+Over time as liquidity of Grin increases and more options to easily buy and sell Grin will emerge, the base percentage of 10% payment in Grincan be increased accordingly.
