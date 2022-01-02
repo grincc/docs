@@ -1,4 +1,4 @@
-# Grin Council
+# Grin Community Council
 
 
 ## Grin Community Council
