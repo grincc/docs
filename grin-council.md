@@ -1,7 +1,6 @@
 # Grin Community Council
 
-
-## Grin Community Council
+ 
 
 Grin Community Council is formed from valued community members with remarkable contributions to Grin[¹](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/13).
 Council's main task is to control and direct <i>Grin Community Fund </i> to support grin projects, bounties and community activities. Current council members are :
