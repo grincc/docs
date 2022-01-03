@@ -20,12 +20,12 @@ Since its launch in 2019, Grin development was funded by only donations. Donatio
 1) Grin Development Fund to support core grin development  
 2) Grin Community Fund to support community projects
 
-Community Council candidates are called for joining to council, among four of them (dtavarez, hendi, mcmmike, paouky) were [approved](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/3?u=stakerv) by original Council. To allow more community participation two additional council members (anynomous, future3000) are selected only by [votes](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/13?u=stakerv) of the community. In June 22, the first [community council meeting](https://github.com/grincc/agenda/blob/main/notes/22-06-2021-council-meeting-notes.md) held. In Septemper 20, Grin community Fund [received](https://forum.grin.mw/t/grin-community-council-cc-received-funds-of-33-btc-lets-get-to-work/9247) __33 BTC__ from original Grin Development Fund, by which splitting of funds has been realized. 
+Community Council candidates are called for joining to council, among four of them (_dtavarez_, _hendi_, _mcmmike_, _paouky_) were [approved](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/3?u=stakerv) by original Council. To allow more community participation two additional council members (_anynomous_, _future3000_) are selected only by [votes](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/13?u=stakerv) of the community. In June 22, the first [community council meeting](https://github.com/grincc/agenda/blob/main/notes/22-06-2021-council-meeting-notes.md) held. In Septemper 20, Grin community Fund [received](https://forum.grin.mw/t/grin-community-council-cc-received-funds-of-33-btc-lets-get-to-work/9247) __33 BTC__ from original Grin Development Fund, by which splitting of funds has been realized. 
 
 
 ## Grin Community Fund
 
-Grin Community fund is initially seeded by splitting a portion of Grin Development Fund. In order to keep independence community fund solely relies on community donations. If you want to keep Grin growing, please consider donation to [Grin Community Fund](https://github.com/grincc/finance/blob/main/addresses.md). 
+Grin Community fund is initially seeded by splitting a portion of Grin Development Fund. In order to keep independence, community fund solely relies on community donations. If you want to keep Grin growing, please consider donation to [Grin Community Fund](https://github.com/grincc/finance/blob/main/addresses.md). 
 
 
 ## Community Meetings
