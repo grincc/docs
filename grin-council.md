@@ -2,7 +2,7 @@
 
  
 
-Grin Community Council is formed from valued community members with remarkable contributions to Grin[¹](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/13).
+Grin Community Council is formed from valued community members with remarkable contributions to Grin[¹](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521/13) in 2021 May.
 Council's main task is to control and direct <i>Grin Community Fund </i> to support grin projects, bounties and community activities. Current council members are :
 
 
@@ -16,7 +16,7 @@ Council's main task is to control and direct <i>Grin Community Fund </i> to supp
 
 ## Background
 
-Since its launch in 2019, Grin development was funded by only donations. Donations to [Grin General Fund](https://grin.mw/fund) was controlled by _Original Grin Council_ according to [Grin Governance RFC](https://github.com/mimblewimble/grin-rfcs/blob/master/text/0002-grin-governance.md). After the last planned hard fork, this RFC has been replaced with [Simplify-Governance RFC](https://github.com/mimblewimble/grin-rfcs/blob/master/text/0016-simplify-governance.md). Meanwhile community has raised its voice for supporting of more projects extendeding grin and its usability which was heard by _Original Grin Council_. One of grin devs, yeastplume make a [proposition](https://gist.github.com/yeastplume/5d1913c7dc40c40f409ffcfe8fa9b094) to split _Grin Development Fund_, and give control to a second group (or more than one group) for decentralizing governance. After discussions of several different split strategies in governance meetings[²](https://github.com/mimblewimble/grin-pm/blob/master/notes/20210216-meeting-governance.md) [³](https://github.com/newjack777/grin-pm/blob/master/notes/20210302-meeting-governance.md) and [community](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521), it was decided to split Development Fund into two funds: 
+Since its launch in 2019, Grin development was funded by only donations. Donations to [Grin General Fund](https://grin.mw/fund) was controlled by _Original Grin Council_ according to [Grin Governance RFC](https://github.com/mimblewimble/grin-rfcs/blob/master/text/0002-grin-governance.md). After the last planned hard fork, this RFC has been replaced with [Simplify-Governance RFC](https://github.com/mimblewimble/grin-rfcs/blob/master/text/0016-simplify-governance.md). Meanwhile community has raised its voice for supporting of more projects extendeding grin and its usability which was heard by _Original Grin Council_. One of Original Grin Council members, yeastplume made a [proposition](https://gist.github.com/yeastplume/5d1913c7dc40c40f409ffcfe8fa9b094) to split _Grin Development Fund_, and give control to a second group (or more than one group) for decentralizing governance. After discussions of several different split strategies in governance meetings[²](https://github.com/mimblewimble/grin-pm/blob/master/notes/20210216-meeting-governance.md) [³](https://github.com/newjack777/grin-pm/blob/master/notes/20210302-meeting-governance.md) and [community](https://forum.grin.mw/t/call-for-grin-community-candidates-for-additional-fund-granting-control/8521), it was decided to split Development Fund into two funds: 
 1) Grin Development Fund to support core grin development  
 2) Grin Community Fund to support community projects
 
