@@ -46,17 +46,17 @@
 <br />      
 
 
-## Satoshcrat - GroundsKeeper (Jan-Apr 2023)
+## Satoshocrat - GroundsKeeper (Jan-Apr 2023)
 
 |Requester | Deliverables | Amount |  Term  | Status |
 | ----- | ---- | ---- | ---- | --- | 
-|[Satoshcrat](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/9)  | Meeting notes & decision logs. GRIN gazette.  | [$4000($1000/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | Jan-Apr 2023 | Finished |
+|[Satoshocrat](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/9)  | Meeting notes & decision logs. GRIN gazette.  | [$4000($1000/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | Jan-Apr 2023 | Finished |
 
 | Task           | Link |  Current Status |  
 |----------------|---------------|:----------------:| 
-| Meeting notes  | > links  |  ❌ |  |          
- Decision logs   | > links  |  ❌ |  |
-| Grin gazette   | > links  |  ❌ |  |
+| Meeting notes  |  link  |  ❌ |  |          
+ Decision logs   |  link  |  ❌ |  |
+| Grin gazette   |  link  |  ❌ |  |
 
 
 <br />      
@@ -68,11 +68,11 @@
 
 |Requester | Deliverables | Amount |  Term  | Status |
 | ----- | ---- | ---- | ---- | --- | 
-|[Nicolasflamel](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030)  | Well documented Wrapper. | [$10000](https://blockchair.com/bitcoin/transaction/ee09f1dead58f8b20f168037c6942b74f81c09ad02b6f7f9897d534a636a37ab)  |  | Finished ✅ |
+|[Nicolasflamel](https://forum.grin.mw/t/locked-python-cffi-secp256k1-zkp-wrapper-bounty/10030)  | Well documented Wrapper. | [$10000](https://blockchair.com/bitcoin/transaction/ee09f1dead58f8b20f168037c6942b74f81c09ad02b6f7f9897d534a636a37ab)  |  Bounty | Finished ✅ |
 
 | Task           | Link |  Current Status |  
 |----------------|---------------|:----------------:| 
-| Python cffi secp256k1 wrapper |  [links](https://github.com/grinventions/secp256k1-zkp-mw#installation)  |    ✔️ | |          
+| Python cffi secp256k1 wrapper |  [link](https://github.com/grinventions/secp256k1-zkp-mw#installation)  |    ✔️ | |          
 
 
 <br />      
