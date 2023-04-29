@@ -9,7 +9,7 @@
 
 | Task           | Link |  Current Status |  
 |----------------|---------------|:----------------:|  
-| Agenda&Meetings |  [links](https://github.com/cekickafa/agenda)  |    ✔️ |                |            
+| Agenda |  [links](https://github.com/cekickafa/agenda)  |    ✔️ |                |            
  Task follow ups   |  [links](https://github.com/cekickafa/agenda/blob/main/community_task_list.md)  |  ✔️ |   |
 | Spending, Financial logs, Transparency reports   | [links](https://github.com/cekickafa/finance)  |   ✔️ | |
 | Newsletter | [link](https://grinpost.substack.com/ )      |       ✔️     |   |
