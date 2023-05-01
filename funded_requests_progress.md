@@ -5,7 +5,7 @@
 
 |Requester | Deliverables |Amount|  Term  | Status |
 | ----- | ---- | ---- | ---- | --- | 
-|[Cekickafa](https://forum.grin.mw/t/request-for-funding-cobragrin-december-2022-march-2023/10208/10)  | Administrative,[Agenda](https://github.com/cekickafa/agenda), Docs, Newsletters, [Financial reports](https://github.com/cekickafa/finance). | [€6000(€1500/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | Dec-Mar 2023 | ✅ Finished |
+|[Cekickafa](https://forum.grin.mw/t/request-for-funding-cobragrin-december-2022-march-2023/10208/10)  | Administrative,[Agenda](https://github.com/grincc/agenda/issues), Docs, Newsletters, [Financial reports](https://github.com/cekickafa/finance). | [€6000(€1500/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | Dec-Mar 2023 | ✅ Finished |
 
 | Task           | Link |  Current Status |  
 |----------------|---------------|:----------------:|  
