@@ -37,8 +37,8 @@
 | Task           | Link          |  Current Status |  
 |----------------|---------------|:----------------: | 
 | Phase 1 |  [links](https://github.com/mimblewimble/mwixnet/pull/1)  |    ✔️    |                  |        
-  Phase 2   | [links](https://github.com/mimblewimble/mwixnet/pull/1 )  |   ✔️ |    |
-| Phase 3   |  links |  | | 
+  Phase 2   | [links](https://github.com/mimblewimble/mwixnet/pull/3 )  |   ✔️ |    |
+| Phase 3   |  [links](https://github.com/mimblewimble/mwixnet/pull/20 ) | On going | | 
 
 <br />      
 <br />      
@@ -50,13 +50,15 @@
 
 |Requester | Deliverables | Amount |  Term  | Status |
 | ----- | ---- | ---- | ---- | --- | 
-|[Satoshocrat](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/9)  | Meeting notes & decision logs. GRIN gazette.  | [$4000($1000/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | Jan-Apr 2023 | Finished |
+|[Satoshocrat](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/9)  | Meeting notes & decision logs. GRIN gazette.  | [$4000($1000/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | Jan-Apr 2023 | ❌ Undone |
 
 | Task           | Link |  Current Status |  
 |----------------|---------------|:----------------:| 
 | Meeting notes  |  link  |  ❌ |  |          
  Decision logs   |  link  |  ❌ |  |
 | Grin gazette   |  link  |  ❌ |  |
+
+* _Community voted for [refund and declared](https://forum.grin.mw/t/request-for-funding-groundskeeper-satoshocrat-jan-apr-2023/10211/10 ) to @satosohocrat for missing tasks_.
 
 
 <br />      
@@ -103,15 +105,44 @@
 <br />      
 <br />      
 
+## Cekickafa - GroundsKeeper (May-Aug 2023)
+
+
+|Requester | Deliverables |Amount|  Term  | Status |
+| ----- | ---- | ---- | ---- | --- | 
+|[Cekickafa](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/8)  | Administrative,[Agenda](https://github.com/cekickafa/agenda), Docs, Newsletters, [Financial reports](https://github.com/cekickafa/finance), Payment Tracking, Progress Tracking, Follow-Up Tasks | [€7000 (€1750/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | May-Aug 2023 | ✅ On going |
+
+| Task           | Link |  Current Status |  
+|----------------|---------------|:----------------:|  
+| Agenda& Meeting Notes |  [links](https://github.com/cekickafa/agenda)  |     |                |            
+ Task follow ups   |  [links](https://github.com/cekickafa/agenda/blob/main/community_task_list.md)  |   |   |
+| Spending, Financial logs, Transparency reports   | [links](https://github.com/cekickafa/finance)  |    | |
+| Newsletter | [link](https://grinpost.substack.com/ )      |            |
+| Progress Tracking | [link](https://github.com/cekickafa/docs-1/blob/main/funded_requests_progress.md)  |
+| Miner payout Report| [link] ( )                                                                             |
+| Payment Tracking |   [link](https://github.com/cekickafa/finance/blob/main/payment-tracking.md)  |
+
+
+
+
+<br />      
+<br />      
+<br />      
+<br />  
+
+
+
+
 
 
 * GK is responsible for progress of funded request tracking.
-* Fund requesters are dutied to publish progress reports
+* Fund requesters are dutied to publish progress reports.
 * Progress reports are reviewed & discussed  by GRINCC members and community.
 * Fund requesters should attend at least 2 community meeting on their term.
 
 
-### *Updated monthly, last updated <i>29 Apr 2023</i>.
+
+### *Updated monthly, last updated <i>30 May 2023</i>.
 
 
 
