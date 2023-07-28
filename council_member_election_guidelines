@@ -1,1 +1,22 @@
+# Moving towards a fully elected council
+The Grin Community Council (CC) originally concisted of four trusted community members with a proven track record and an additional two council members were elected based on community voting.
+Based on input from the community, it was decided to move towards a fully elected council while implementing some minimal conditions on community members applying for a position on the council. 
+To balance a) protection of funds an knowledge in the council and b) moving towards a fully democracy it was decided to implement these guidelines for council member elections.
 
+## Conditions to become a CC members
+To become a CC candidate in an electio, a community council member needs to meet the following conditions:
+* A proven track record of constructive contribution to Grin as project
+* No track record of malicious or toxic activities related to Grin
+* A minimum of one year being an active community member
+
+## Endorsement /  support from existing council members
+Candidates needs endorsement/support from the majority of the existing Community Council members. In case of six council members this translates to needing support from at least four council members. 
+To avoid candidates from explicitly having to ask for support, this endorsement is implemented as no-objection unless specified otherwise. This means that unless a council member specically formulates and communicates a public objection to a candidate, it is assumed the council member endorses the candidate.
+As in every decisson in Grin governance, proper argumentation needs to be provided for an objection to be considered. Simply objecting because a council member does not like a candidate is not supported. 
+The above specified minimal requirements and the fails-safe of allowing CC members to object against candidates provides the CC with the tools to protect the functioning of the council, and more importantly, functions to deter any attacker from even considering an attack on Grin governance.
+
+## Election process
+When one or more CC memebrs step down, an election is organised. The CC encourages trusted community members to step forward as council candidates. 
+Candidates for a CC election can step forward based on an invitated as well as step forward on their own valition. Any community member can become a candidate if he/she/it meets the minimal requirements.
+All candidates are asked to put a summary of their candidacy on the forum. If all candidates have postec on the forum, an election period of approximately on month is started in which community members can vote for their candidates.
+A list of all candidates with links to their forum post is provided in the newsletter. Voting are tallied by likes of the post by candidates, only accounting votes from community members who are part of the community before the call for a new election was communicated
