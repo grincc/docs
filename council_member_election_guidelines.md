@@ -1,7 +1,7 @@
 # Moving towards a fully elected council
 The Grin Community Council (CC) originally consisted of four trusted community members with a proven track record and an additional two council members which were elected based on community voting.
-Based on input from the community, it was decided to move towards a fully elected council while implementing some minimal conditions on community members applying for a position on the council. 
-With these procedural guidelines and minimal requirements, we aim to a) protect funds, knowledge and experience within the council and b) move towards a fully democratically voted council.
+Based on input from the community, it was decided to move towards a fully elected council while implementing some additional safety measurements since a fully elected council is more prone to attack. 
+We created some procedural guidelines and minimal requirements for council members with the aim to a) protect funds, knowledge and experience within the council while b) moving towards a council consisting of fully democratically voted members.
 
 ## Conditions to become a CC members
 To become a CC candidate in an election, a community council member needs to meet the following conditions:
