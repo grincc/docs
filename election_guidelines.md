@@ -1,5 +1,5 @@
-**TLDR: these guidelines allow council members to be appointed or removed by any community member (democratic) but only when proper arguments (technocratic) are provided while providing proper security to the funds. 
-In case of any unforeseen situation, the CC can fall back on the principals of a) allowing motions by any community member and b) only considering motions when accompanied by proper arguments.**
+**TLDR: these guidelines allow council members to be appointed or removed by any community member (democratic) but only when proper arguments are provided (technocratic) while implementing measure to secure the funds. 
+In case of doubts, the CC can fall back on these basic principels of a) allowing motions by any community member and b) only approving motions when considered valid based on their argumentation.**
 
 # Community council election guidelines
 The Grin Community Council (CC) originally consisted of four by the OC appointed trusted community members with a proven track record and two council members which were elected based on public community voting.
