@@ -11,7 +11,7 @@ The Council's main task is to control and direct <i>Grin Community Fund </i> to 
 - future3000
 - ***
 - mcmmike
-- Mokhtar
+- mwgrin_fr
 
 
 ## Background
