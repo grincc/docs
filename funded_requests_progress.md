@@ -93,8 +93,8 @@
 
 | Task           | Link          |  Current Status |  
 |----------------|---------------|---------------- | 
-| Grin++ API |  [link](https://github.com/GrinPlusPlus/GrinPlusPlus/pull/221 )  |        |                  |        
-  Grin++ CLI  |  [link]( https://github.com/GrinPlusPlus/GrinPP-CLI/pull/7)  |    |    |
+| Grin++ API |  [link](https://github.com/GrinPlusPlus/GrinPlusPlus/pull/221 )  |  Release as alpha.     |                  |        
+  Grin++ CLI  |  [link]( https://github.com/GrinPlusPlus/GrinPP-CLI/pull/7)  | Release as alpha   |    |
 | Documentation   |  link |  | | 
 
 
