@@ -93,11 +93,11 @@ Our values are our moral compass that guide how we interact with others in our c
 
 ## Collaboration:
 
-It is about collaboration, not competition. What is good for you is good for me. Working together and being transparent with each other is a fundamental part of what makes Minima tick.
+It is about collaboration, not competition. What is good for you is good for me. Working together and being transparent with each other is a fundamental part of what makes Grin Community tick.
 
 ## Participation: 
 
-Like the protocol, we will only succeed if everyone is an active participant. Put the work in, and you will be rewarded.
+We will only succeed if everyone is an active participant in the community. Put the work in, and you will be rewarded.
 
 ## Empowerment:
 
