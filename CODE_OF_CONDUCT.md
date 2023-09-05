@@ -108,7 +108,7 @@ We will only succeed if everyone is an active participant in the community. Put 
 With empowerment comes accountability. We trust each other to take responsibility when things go wrong, making sure that we first attempt to resolve any issues ourselves.
 
 
-
+**By following these guidelines, we can help to create a positive and productive community for everyone**.
 
 
 ### Attribution
@@ -123,7 +123,9 @@ For answers to common questions about this code of conduct, see the FAQ at https
 
 
 
-By following these guidelines, we can help to create a positive and productive community for everyone.
+
+
+
 
 
 
