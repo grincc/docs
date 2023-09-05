@@ -78,11 +78,46 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 
 
+# What is our purpose?
+
+**GRIN Community Council** arose from the desire to create a community that empowers freedom for all.
+
+*We think that everyone should have the same opportunities to create, connect, and interact, and because of this, we are working together inside our community to make this a reality.*
+
+
+
+
+# What are our values?
+
+Our values are our moral compass that guide how we interact with others in our community. If you share these same values, you’re already one of us.
+
+## Collaboration:
+
+It is about collaboration, not competition. What is good for you is good for me. Working together and being transparent with each other is a fundamental part of what makes Minima tick.
+
+## Participation: 
+
+Like the protocol, we will only succeed if everyone is an active participant. Put the work in, and you will be rewarded.
+
+## Empowerment:
+
+ We are working for freedom, and so we give everyone the freedom they need to thrive. No matter who you are.
+
+## Accountability: 
+
+With empowerment comes accountability. We trust each other to take responsibility when things go wrong, making sure that we first attempt to resolve any issues ourselves.
+
+
+
+
+
 ### Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 Community Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.
+
+Purpose and values are derived from http://docs.minima.global/docs/about/welcome
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
 
