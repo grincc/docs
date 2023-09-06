@@ -87,21 +87,21 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 
 
-# What are our values?
+# What unites us?
 
-Our values are our moral compass that guide how we interact with others in our community. If you share these same values, you’re already one of us.
+We are united by our shared passion for Grin and crypto. All you need to be a 'grinner', is a passion for Grin.
 
-## Collaboration:
+## Collaboration & empowerment: 
 
 It is about collaboration, not competition. What is good for you is good for me. Working together and being transparent with each other is a fundamental part of what makes Grin Community tick.
+
+We embrace diversity and inclusiveness and interact with kindness, politeness to create a constructive and welcoming environment for all. We aim to empower everyone to use their own skill-sett and passion to contribute to the project wherever and in whatever capacity they want to contribute. If you are an artist, you are welcome to create grin art. If you have experience using grin, we appreciate you helping out those who have questions. If you are a developer or cryptographer, we welcome your contributions on the forum, key-base or GitHub to help keep our code minimal robust and user friendly or introduce new features without bloating the core code. If you need help or have questions, as community we are happy to help. Whatever your background or skills are, we welcome your participation in the project.
 
 ## Participation: 
 
 We will only succeed if everyone is an active participant in the community. Put the work in, and you will be rewarded.
 
-## Empowerment:
 
- We are working for freedom, and so we give everyone the freedom they need to thrive. No matter who you are.
 
 ## Accountability: 
 
