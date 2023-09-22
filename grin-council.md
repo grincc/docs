@@ -7,9 +7,9 @@ The Council's main task is to control and direct <i>Grin Community Fund </i> to 
 
 
 - anynomous
-- dtavarez
+- ***
 - future3000
-- hendi
+- ***
 - mcmmike
 - mwgrin_fr
 
