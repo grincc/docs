@@ -95,7 +95,7 @@
 |----------------|---------------|---------------- | 
 | Grin++ API |  [link](https://github.com/GrinPlusPlus/GrinPlusPlus/pull/221 )  |  Release as alpha.     |                  |        
   Grin++ CLI  |  [link]( https://github.com/GrinPlusPlus/GrinPP-CLI/pull/7)  | Release as alpha   |    |
-| Documentation   |  link |  | | 
+| Documentation   |  link |  |   | 
 
 
 
@@ -115,12 +115,42 @@
 | Task           | Link |  Current Status |  
 |----------------|---------------|:----------------:|  
 | Agenda& Meeting Notes |  [links](https://github.com/cekickafa/agenda)  |     |                |            
- Task follow ups   |  [links](https://github.com/cekickafa/agenda/blob/main/community_task_list.md)  |   |   |
-| Spending, Financial logs, Transparency reports   | [links](https://github.com/cekickafa/finance)  |    | |
-| Newsletter | [link](https://grinpost.substack.com/ )      |            |
-| Progress Tracking | [link](https://github.com/cekickafa/docs-1/blob/main/funded_requests_progress.md)  |
-| Miner payout Report| [link](https://github.com/cekickafa/finance/blob/main/grincc-wallet.md )                                                                             |
-| Payment Tracking |   [link](https://github.com/cekickafa/finance/blob/main/payment-tracking.md)  |
+ Task follow ups   |  [links](https://github.com/cekickafa/agenda/blob/main/community_task_list.md)  | ✅  |   |
+| Spending, Financial logs, Transparency reports   | [links](https://github.com/cekickafa/finance)  | ✅   | |
+| Newsletter | [link](https://grinpost.substack.com/ )      |   ✅         |
+| Progress Tracking | [link](https://github.com/cekickafa/docs-1/blob/main/funded_requests_progress.md)  | ✅
+| Miner payout Report| [link](https://github.com/cekickafa/finance/blob/main/grincc-wallet. )    |     ✅                |
+| Payment Tracking |   [link](https://github.com/cekickafa/finance/blob/main/payment-tracking.md)  | ✅ |
+
+
+
+
+
+
+## Cekickafa - GroundsKeeper (September-December 2023)
+
+
+|Requester | Deliverables |Amount|  Term  | Status |
+| ----- | ---- | ---- | ---- | --- | 
+|[Cekickafa](https://forum.grin.mw/t/request-for-funding-cobragrin-may-aug-2023/10486/8)  | Administrative,[Agenda](https://github.com/cekickafa/agenda), Docs, Newsletters, [Financial reports](https://github.com/cekickafa/finance), Payment Tracking, Progress Tracking, Follow-Up Tasks | [€7000 (€1750/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | May-Aug 2023 | ✅ Finished |
+
+| Task           | Link |  Current Status |  
+|----------------|---------------|:----------------:|  
+| Agenda& Meeting Notes |  [links](https://github.com/cekickafa/agenda)  |  ✅    |                  
+ Task follow ups   |  [links](https://github.com/cekickafa/agenda/blob/main/community_task_list.md)  | ✅  | 
+| Spending, Financial logs, Transparency reports   | [links](https://github.com/cekickafa/finance)  |  ✅  |  
+| Newsletter | [link](https://grinpost.substack.com/ )      |    ✅        | 
+| Progress Tracking | [link](https://github.com/cekickafa/docs-1/blob/main/funded_requests_progress.md) | ✅
+| Payment Tracking |   [link](https://github.com/cekickafa/finance/blob/main/payment-tracking.md)  |  ✅ |
+
+
+
+
+
+
+
+
+
 
 
 
@@ -142,7 +172,7 @@
 
 
 
-### *Updated  <i>31 August 2023</i>.
+### *Updated  <i>31 January 2024</i>.
 
 
 
