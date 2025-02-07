@@ -145,10 +145,48 @@
 
 
 
+## Cekickafa - GroundsKeeper (March-December 2024)
+
+
+|Requester | Deliverables |Amount|  Term  | Status |
+| ----- | ---- | ---- | ---- | --- | 
+|[Cekickafa](https://forum.grin.mw/t/request-for-funding-cobragrin-2024-2025/10949)  | Administrative,[Agenda](https://github.com/cekickafa/agenda), Docs, Newsletters, [Financial reports](https://github.com/cekickafa/finance), Payment Tracking, Progress Tracking, Follow-Up Tasks, Various duties. | [€8750 (€1750/mo)](https://blockchair.com/bitcoin/transaction/7f66e917ccc259c90f1ca517c3b3699dd966be10e102cdc3e4bc7db596d099b0)  | May-Dec 2024 | ✅ Finished |
+
+| Task           | Link |  Current Status |  
+|----------------|---------------|:----------------:|  
+| Agenda& Meeting Notes |  [links](https://github.com/cekickafa/agenda)  |  ✅    |                  
+ Task follow ups   |  [links](https://github.com/cekickafa/agenda/blob/main/community_task_list.md)  | ✅  | 
+| Spending, Financial logs, Transparency reports   | [links](https://github.com/cekickafa/finance)  |  ✅  |  
+| Newsletter | [link](https://grinpost.substack.com/ )      |    ✅        | 
+| Progress Tracking | [link](https://github.com/cekickafa/docs-1/blob/main/funded_requests_progress.md) | ✅
+| Payment Tracking |   [link](https://github.com/cekickafa/finance/blob/main/payment-tracking.md)  |  ✅ |
+
+
+## Mwixnet Phase 3
+
+
+|Requester | Deliverables | Amount |  Term  | Status |
+| ----- | ---- | ---- | ---- | --- | 
+|[Scilio](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149/92)  | Mwixnet phase 3 [Mwixnet](https://github.com/scilio/mwixnet-1/tree/reorg)| [25.000 £)](https://bitinfocharts.com/bitcoin/block/844927/bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl)  | May 2024 | ✅ |
+
+| Task           | Link          |  Current Status |  
+|----------------|---------------|---------------- | 
+| Mwixnet phase 3 |  [link](https://github.com/scilio/mwixnet-1/tree/reorg )  |  Released.  |                  |        
 
 
 
+## Donation to MimbleWimble-py implementation.
 
+
+
+|Requester | Deliverables | Amount |  Term  | Status |
+| ----- | ---- | ---- | ---- | --- | 
+|[Grincc proposal](https://forum.grin.mw/t/should-the-cc-donate-to-grinvention-mimblewimble-py/10942)  | MimbleWimble Python [Grinvention](https://github.com/grinventions/mimblewimble-py/pulls?q=is%3Apr+is%3Aclosed)| [10.000 €)](https://bitinfocharts.com/bitcoin/block/833263/bc1qmdhmgmhd6j89225hzdh7dxqgmen3y2q0g4vgpez0tw9tkp4ae39qsqvuyl)  | May 2024 | ✅ |
+
+
+| Task           | Link          |  Current Status |  
+|----------------|---------------|---------------- | 
+| Grinventions |  [link](https://github.com/grinventions )  |  Released.  |                  |    
 
 
 
@@ -165,14 +203,14 @@
 
 
 
-* GK is responsible for progress of funded request tracking.
+* GK is responsible for tracking progress of funded request.
 * Fund requesters are dutied to publish progress reports.
 * Progress reports are reviewed & discussed  by GRINCC members and community.
 * Fund requesters should attend at least 2 community meeting on their term.
 
 
 
-### *Updated  <i>31 January 2024</i>.
+### *Updated  <i>31 December 2024</i>.
 
 
 
