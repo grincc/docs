@@ -38,7 +38,7 @@
 |----------------|---------------|:----------------: | 
 | Phase 1 |  [links](https://github.com/mimblewimble/mwixnet/pull/1)  |    ✔️    |                  |        
   Phase 2   | [links](https://github.com/mimblewimble/mwixnet/pull/3 )  |   ✔️ |    |
-| Phase 3   |  [links](https://github.com/mimblewimble/mwixnet/pull/20 ) | On going | | 
+| Phase 3   |  [links](https://github.com/mimblewimble/mwixnet/pull/20 ) | ✔️ | | 
 
 <br />      
 <br />      
