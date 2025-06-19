@@ -64,7 +64,7 @@ Also  following should be accepted ;
 * Respond in chat when being tagged.
 * Check the forum weekly for important topics, respond to tags.
 
-**GGC keyholderd**
+**GGC keyholders**
 * Respond within a week in the chat when being tagged and asked to sign a transaction.
 * Check forum biweekly and at least monthly to know roughly what is going on in the project.
 
